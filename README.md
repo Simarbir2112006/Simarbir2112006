@@ -12,7 +12,7 @@
 
 ## 🧠 About Me
 
-- 🎓 BE in **Artificial Intelligence & Machine Learning** @ Thapar Institute of Engineering and Technology (CGPA: 8.01)
+- 🎓 BE in **Artificial Intelligence & Machine Learning** @ Thapar Institute of Engineering and Technology
 - 🔭 Currently working on: **A modular Energy Demand Forecasting pipeline — converting a Kaggle notebook into production-ready ML code**
 - 🌱 Currently learning: **LLM internals, RAG systems & ML system design**
 - 📍 Punjab, India
@@ -33,6 +33,7 @@
 ![LightGBM](https://img.shields.io/badge/LightGBM-02569B?style=for-the-badge&logo=lightgbm&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-189AB4?style=for-the-badge&logo=xgboost&logoColor=white)
 ![Optuna](https://img.shields.io/badge/Optuna-3B82F6?style=for-the-badge&logo=optuna&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-FF6B6B?style=for-the-badge&logo=python&logoColor=white)
 
 ### Data & Visualization
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
