@@ -82,7 +82,7 @@
 
 ## 🚀 Featured Projects
 
-### 🔋 [Energy Demand Forecasting — NSW 2018–2023](https://github.com/Simarbir2112006)
+### 🔋 [Energy Demand Forecasting — NSW 2018–2023](https://github.com/Simarbir2112006/electricity-demand-forecasting-nsw)
 Hybrid Ridge + LightGBM pipeline over 95k+ half-hourly demand records. Engineered Fourier seasonality, lag, and rolling-window features. **13% RMSE reduction vs baseline | 0.85 R²**
 
 ### 📈 [Financial Time-Series Predictor](https://github.com/Simarbir2112006/financial-time-series-predictor)
