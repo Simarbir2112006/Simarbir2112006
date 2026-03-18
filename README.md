@@ -12,8 +12,8 @@
 
 ## 🧠 About Me
 
-- 🎓 BE in **Artificial Intelligence & Machine Learning** @ Thapar Institute of Engineering and Technology
-- 🔭 Currently working on: **A modular Energy Demand Forecasting pipeline — converting a Kaggle notebook into production-ready ML code**
+- 🎓 BE in **Artificial Intelligence & Machine Learning** @Thapar Institute of Engineering and Technology, Patiala
+- 🔭 Currently working on: **LLM basics**
 - 🌱 Currently learning: **LLM internals, RAG systems & ML system design**
 - 📍 Punjab, India
 
@@ -82,11 +82,16 @@
 
 ## 🚀 Featured Projects
 
-### 🔋 [Energy Demand Forecasting — NSW 2018–2023](https://github.com/Simarbir2112006/electricity-demand-forecasting-nsw)
-Hybrid Ridge + LightGBM pipeline over 95k+ half-hourly demand records. Engineered Fourier seasonality, lag, and rolling-window features. **13% RMSE reduction vs baseline | 0.85 R²**
-
 ### 📈 [Financial Time-Series Predictor](https://github.com/Simarbir2112006/financial-time-series-predictor)
-Hybrid LightGBM + Ridge rolling-window system for tactical asset allocation with volatility-aware position sizing and Streamlit UI.
+Hybrid LightGBM + Ridge rolling-window system for tactical asset allocation with 
+volatility-aware position sizing. Full modular src/ package with walk-forward 
+training, batch inference, synthetic data generation, and a live Streamlit dashboard.
+
+### 🔋 [Energy Demand Forecasting — NSW 2018–2023](https://github.com/Simarbir2112006/electricity-demand-forecasting-nsw)
+Hybrid Ridge + LightGBM pipeline over 95k+ half-hourly demand records. 
+Modular src/ package with Fourier seasonality, lag, and rolling-window features. 
+**13% RMSE reduction vs baseline | R² 0.85**
+
 
 ---
 
