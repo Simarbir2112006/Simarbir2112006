@@ -1,6 +1,6 @@
 <div align="center">
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Simarbir+Singh+Sandhu+%F0%9F%91%8B;Machine+Learning+Engineer;Time-Series+Forecasting+%7C+TIET+%2728" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Hi%2C+I'm+Simarbir+Singh+Sandhu+%F0%9F%91%8B;BE+AI%2FML+%40+TIET%2728;Classical+ML+%7C+Time-Series+%7C+Learning+LLMs" alt="Typing SVG" /></a>
 
 <br/>
 
@@ -12,9 +12,9 @@
 
 ## 🧠 About Me
 
-- 🎓 BE in **Artificial Intelligence & Machine Learning** @Thapar Institute of Engineering and Technology, Patiala
-- 🔭 Currently working on: **LLM basics**
-- 🌱 Currently learning: **LLM internals, RAG systems & ML system design**
+- 🎓 BE in **Artificial Intelligence & Machine Learning** @ Thapar Institute of Engineering and Technology, Patiala — graduating May 2028
+- 🔭 Currently working on: **Real-time anomaly detection with LLM explanation layer**
+- 🌱 Currently learning: **HuggingFace, Groq API, RAG systems**
 - 📍 Punjab, India
 
 ---
@@ -89,9 +89,8 @@ training, batch inference, synthetic data generation, and a live Streamlit dashb
 
 ### 🔋 [Energy Demand Forecasting — NSW 2018–2023](https://github.com/Simarbir2112006/electricity-demand-forecasting-nsw)
 Hybrid Ridge + LightGBM pipeline over 95k+ half-hourly demand records. 
-Modular src/ package with Fourier seasonality, lag, and rolling-window features. 
+Modular src/ package with Fourier seasonality, lag, and rolling-window features.
 **13% RMSE reduction vs baseline | R² 0.85**
-
 
 ---
 
@@ -107,5 +106,6 @@ Modular src/ package with Fourier seasonality, lag, and rolling-window features.
 ---
 
 <div align="center">
-<i>Building ML systems that actually work.</i>
+<i>Undergrad building real things.</i>
+</i>
 </div>
