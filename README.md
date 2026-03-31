@@ -53,8 +53,8 @@
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Simarbir2112006&show_icons=true&theme=tokyonight&include_all_commits=true&cache_seconds=86400"/>
-<img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Simarbir2112006&layout=compact&langs_count=6&theme=tokyonight&cache_seconds=86400"/>
+<img height="180em" src="https://github-readme-stats-vercel-simarbirsinghedu-7463s-projects.vercel.app/api?username=Simarbir2112006&show_icons=true&theme=tokyonight&include_all_commits=true"/>
+<img height="180em" src="https://github-readme-stats-vercel-simarbirsinghedu-7463s-projects.vercel.app/api/top-langs/?username=Simarbir2112006&layout=compact&langs_count=6&theme=tokyonight"/>
 
 </div>
 
