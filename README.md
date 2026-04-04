@@ -13,7 +13,7 @@
 ## 🧠 About Me
 
 - 🎓 BE in **Artificial Intelligence & Machine Learning** @ Thapar Institute of Engineering and Technology, Patiala — graduating May 2028
-- 🔭 Currently working on: **Real-time anomaly detection with LLM explanation layer**
+- 🔭 Currently working on: **Participating in Kaggle Playground S6E4 Competition**
 - 🌱 Currently learning: **HuggingFace, Groq API, RAG systems**
 - 📍 Punjab, India
 
