@@ -49,17 +49,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats-vercel-simarbirsinghedu-7463s-projects.vercel.app/api?username=Simarbir2112006&show_icons=true&theme=tokyonight&include_all_commits=true"/>
-<img height="180em" src="https://github-readme-stats-vercel-simarbirsinghedu-7463s-projects.vercel.app/api/top-langs/?username=Simarbir2112006&layout=compact&langs_count=6&theme=tokyonight"/>
-
-</div>
-
----
-
 ## 🔥 Streak
 
 <div align="center">
