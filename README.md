@@ -14,7 +14,7 @@
 
 - 🎓 BE in **Artificial Intelligence & Machine Learning** @ Thapar Institute of Engineering and Technology — graduating May 2028
 - 💼 **Research Intern @ TIET-UQ Centre of Excellence in Data Science & AI** *(June 2026 – Present)*
-- 💼 **Research Intern @ TIET × Imperial College London** — SCALED project *(Dec 2025 – Feb 2026)*
+- 💼 **Research Intern @ TIET × Imperial College London** — SCALED project *(Dec 2025 – Mar 2026)*
 - 🔭 Currently building: **MediCore** — a real-time clinical backend (Kafka, Redis, TimescaleDB, FastAPI)
 - 🌱 Currently learning: **System Design, DSA, Backend Engineering**
 - 🏆 Kaggle Notebooks Expert — Top 1.35% (842 / 62,335)
