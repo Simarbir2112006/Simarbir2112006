@@ -68,7 +68,7 @@
 
 ## 🚀 Featured Projects
 
-### 🏥 [MediCore — Real-Time Clinical Backend](https://github.com/Simarbir2112006) *(in progress)*
+### 🏥 [MediCore — Real-Time Clinical Backend](https://github.com/Simarbir2112006/medicore) *(in progress)*
 Production-grade backend system for real-time patient vitals monitoring.
 - Kafka-based vitals ingestion over WebSocket with asyncio consumer worker pool
 - Redis alert engine with TTL-based priority queuing
